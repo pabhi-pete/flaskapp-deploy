@@ -4,11 +4,11 @@ app = Flask(__name__)
 
 stores = [
     {
-        'name': "restuarant A",
-        'items': [
+        "name": "restuarant A",
+        "items": [
             {
-                'name': 'item1',
-                'price': 9.22
+                "name": "item1",
+                "price": 9.22
             }
         ]
     }
