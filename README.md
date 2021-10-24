@@ -27,7 +27,9 @@ Create Python Environment on your Flask Project
 
 Activate venv
 ```bash
- source venv/bin/activate        
+ source venv/bin/activate
+ or
+ . venv/bin/activate       
 ```
 Deactivate venv
 ```bash
