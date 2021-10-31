@@ -22,23 +22,23 @@ pip install --upgrade pip
 
 Create Python Environment on your Flask Project
 ```bash
- python3 -m venv <your venv name >     
+python3 -m venv <your venv name >     
 ```
 
 Activate venv
 ```bash
- source venv/bin/activate
- or
- . venv/bin/activate       
+source venv/bin/activate
+or
+. venv/bin/activate       
 ```
 Deactivate venv
 ```bash
- deactivate       
+deactivate       
 ```
 
 Save all the packages in the file with pip commands
 ```bash
- pip freeze > requirements.txt      
+pip freeze > requirements.txt      
 ```
 
 ## Usage
